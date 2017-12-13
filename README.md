@@ -11,9 +11,9 @@ Extract the files, then cd to that directory.
 
 Make the install.sh file executable and run it.
 
-sudo chmod 755 ./install.sh
+`sudo chmod 755 ./install.sh`
 
-sudo ./install.sh
+`sudo ./install.sh`
 
 Reboot the device and run Chromium (User)
 
