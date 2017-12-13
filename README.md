@@ -13,7 +13,7 @@ Make the install.sh file executable and run it.
 
 `chmod 755 ./install.sh`
 
-`./install.sh`
+`sudo ./install.sh`
 
 Reboot the device and run Chromium (User)
 
