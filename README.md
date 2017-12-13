@@ -1,5 +1,6 @@
 # TinkerBoardNetflix
 Patch to run Netflix/Amazon/Hulu
+Checked on TinkerOS v2.0.3 and v2.0.4 with Chromium v62 and v63.
 
 Install chromium-widevine
 
