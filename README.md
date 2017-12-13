@@ -5,7 +5,7 @@ Install chromium-widevine
 
 `sudo apt install chromium-widevine` 
 
-Download the Tinker.zip file.
+Download the tinker.zip file.
 
 Extract the files, then cd to that directory.
 
