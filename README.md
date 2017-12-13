@@ -3,7 +3,7 @@ Patch to run Netflix/Amazon/Hulu
 
 Install chromium-widevine
 
-`sudo apt install chromium-widevine` 
+`sudo apt-get install chromium-widevine` 
 
 Download the tinker.zip file.
 
